@@ -4,6 +4,7 @@ public class Main {
       System.out.println("조유성");
       World.run();
       World.run2();
+      Hello.run();
     }
   
   }
