@@ -4,5 +4,9 @@ public class World {
       System.out.println("202014113");
     }
   
-  }
+    public static void run2() {
+        System.out.println("hello world");
+    }
+
+}
   
